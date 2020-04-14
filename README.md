@@ -1,0 +1,3 @@
+# AlgorithmsDemo
+
+Udemy training exercises 
